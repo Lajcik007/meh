@@ -34,4 +34,9 @@ main.use("/api/v1", app);
 //define google cloud function name
 export const webApi = functions.https.onRequest(main);
 
-// https://github.com/inversify/inversify-express-example/tree/master
+// https://github.com/inversify/inversify-express-utils
+// https://github.com/inversify/inversify-express-example
+// https://dev.to/vishnucprasad/clean-architecture-with-inversify-in-nodejs-with-typescript-a-code-driven-guide-4oo7
+// https://dev.to/msplatam/how-to-use-inversifyjs-and-utils-with-nodejs-typescript-2pn
+// https://medium.com/@gurkan.demir/a-clean-approach-to-validations-using-inversify-express-validator-7e94c6e38bcb
+// https://inversify.io/
